@@ -1,0 +1,5 @@
+x=;
+y=x+++;
+x++
+
+Compile Error!

@@ -1,0 +1,7 @@
+x=(x+(y-(z*(x/(y%(z+(x-(y*(z/(x%(y+(z-(x*(y/(z%5)))))))))))))));
+y=(((((((((((((((x+5)-y)*z)/x)%y)+z)-x)*y)/z)%x)+y)-z)*x)/y)%z);
+
+
+change initial value 2,9,6
+x=11,y=0,z=6
+total=9000
